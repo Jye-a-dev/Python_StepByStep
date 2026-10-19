@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+data-dev.sqlite
+data.sqlite
+uploads/
